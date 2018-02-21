@@ -1,9 +1,9 @@
 {
-  "name": "@zeit/next-typescript",
+  "name": "@khuezy/next-typescript",
   "version": "0.0.10",
   "main": "index.js",
   "license": "MIT",
-  "repository": "zeit/next-plugins",
+  "repository": "khue/next-plugins",
   "dependencies": {
     "ts-loader": "^3.5.0"
   },
